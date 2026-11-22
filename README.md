@@ -6,7 +6,7 @@ This inverter is the power-conversion stage of **H.E.R.O (Hybrid Energy Resource
 
 > **Status:** Inverter stage completed and verified in simulation. Hardware not built.
 
-![Full circuit](Circuit/Full_Circuit.png)
+![Full circuit](Inverter_Circuit/Final_Inverter_Circuit.pdf)
 
 ## Specifications
 
@@ -82,7 +82,7 @@ Each section has a PDF with the schematic, explanation and simulation screenshot
 5. [Overcurrent Protection](Documentation/05_Overcurrent_Protection.pdf)
 6. [Voltage Feedback](Documentation/06_Voltage_Feedback.pdf)
 
-Also: [Component List](Documentation/Component_List.pdf) | [Full circuit (PDF)](Circuit/Full_Circuit.pdf)
+Also: [Component List](Documentation/Component_List.pdf) | [Full circuit (PDF)](Inverter_Circuit/Final_Inverter_Circuit.pdf)
 
 ## Repository structure
 
