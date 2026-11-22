@@ -6,7 +6,7 @@ This inverter is the power-conversion stage of **H.E.R.O (Hybrid Energy Resource
 
 > **Status:** Inverter stage completed and verified in simulation. Hardware not built.
 
-![Full circuit](Inverter_Circuit/Final_Inverter_Circuit.pdf)
+![Full circuit](Inverter_circuit/Block_Diagram.png)
 
 ## Specifications
 
